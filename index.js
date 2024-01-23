@@ -1,3 +1,5 @@
+//
+
 let greenCharacter = document.createElement('img')
 greenCharacter.src = 'assets/green-character.gif'
 greenCharacter.style.position = 'fixed'
